@@ -1,2 +1,2 @@
-# kube
-# Aplicacion Flask : Servidor de hora basado en sockets
+#Kube
+Aplicacion Flask : Servidor de hora basado en sockets
